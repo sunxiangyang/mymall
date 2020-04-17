@@ -1,4 +1,4 @@
-package com.macro.mymall;
+package com.macro.mall;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
